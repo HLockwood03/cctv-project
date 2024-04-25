@@ -1,0 +1,276 @@
+[04.12.24|13:26:10] Load weights from ./models/st_gcn.kinetics.pt.
+[04.12.24|13:26:10] Load weights [A].
+[04.12.24|13:26:11] Load weights [data_bn.weight].
+[04.12.24|13:26:11] Load weights [data_bn.bias].
+[04.12.24|13:26:11] Load weights [data_bn.running_mean].
+[04.12.24|13:26:11] Load weights [data_bn.running_var].
+[04.12.24|13:26:11] Load weights [data_bn.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.0.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.1.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.2.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.3.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.residual.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.residual.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.residual.1.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.residual.1.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.residual.1.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.residual.1.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.4.residual.1.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.5.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.6.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.residual.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.residual.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.residual.1.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.residual.1.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.residual.1.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.residual.1.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.7.residual.1.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.8.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.gcn.conv.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.gcn.conv.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.0.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.0.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.0.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.0.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.2.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.2.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.3.weight].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.3.bias].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.3.running_mean].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.3.running_var].
+[04.12.24|13:26:11] Load weights [st_gcn_networks.9.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Load weights [edge_importance.0].
+[04.12.24|13:26:11] Load weights [edge_importance.1].
+[04.12.24|13:26:11] Load weights [edge_importance.2].
+[04.12.24|13:26:11] Load weights [edge_importance.3].
+[04.12.24|13:26:11] Load weights [edge_importance.4].
+[04.12.24|13:26:11] Load weights [edge_importance.5].
+[04.12.24|13:26:11] Load weights [edge_importance.6].
+[04.12.24|13:26:11] Load weights [edge_importance.7].
+[04.12.24|13:26:11] Load weights [edge_importance.8].
+[04.12.24|13:26:11] Load weights [edge_importance.9].
+[04.12.24|13:26:11] Load weights [fcn.weight].
+[04.12.24|13:26:11] Load weights [fcn.bias].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.gcn.conv.weight].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.3.running_mean].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.3.running_var].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.3.bias].
+[04.12.24|13:26:11] Can not find weights [edge_importance.10].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.0.weight].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.3.num_batches_tracked].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.0.running_mean].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.0.bias].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.0.num_batches_tracked].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.gcn.conv.bias].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.2.weight].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.2.bias].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.3.weight].
+[04.12.24|13:26:11] Can not find weights [st_gcn_networks.10.tcn.0.running_var].
+[04.12.24|13:26:11] Parameters:
+{'work_dir': './work_dir/recognition/fd/ST_GCN/1l', 'phase': 'test', 'save_result': False, 'start_epoch': 0, 'num_epoch': 20, 'use_gpu': True, 'device': 0, 'log_interval': 100, 'save_interval': 10, 'eval_interval': 5, 'save_log': True, 'print_log': True, 'pavi_log': False, 'feeder': 'feeder.feeder.Feeder', 'num_worker': 4, 'train_feeder_args': {'random_choose': True, 'random_move': True, 'window_size': 300, 'data_path': './data/fight-detection/skeleton_3/train_data.npy', 'label_path': './data/fight-detection/skeleton_3/train_label.pkl', 'debug': False}, 'test_feeder_args': {'data_path': './data/fight-detection/skeleton_3/val_data.npy', 'label_path': './data/fight-detection/skeleton_3/val_label.pkl'}, 'batch_size': 16, 'test_batch_size': 16, 'debug': False, 'model': 'net.st_gcn_fight.Model', 'model_args': {'in_channels': 3, 'num_class': 400, 'dropout': 0, 'edge_importance_weighting': True, 'graph_args': {'layout': 'openpose', 'strategy': 'spatial'}}, 'weights': './models/st_gcn.kinetics.pt', 'ignore_weights': [], 'config': '.\\config\\fd\\transfer.yaml', 'show_topk': [1, 5], 'base_lr': 0.1, 'step': [2, 4, 6, 8, 10, 12, 16], 'optimizer': 'SGD', 'nesterov': True, 'weight_decay': 0.0001, 'train_full_feeder_args': {'random_choose': True, 'random_move': True, 'window_size': 300, 'data_path': './data/fight-detection/skeleton_3/train_data_full.npy', 'label_path': './data/fight-detection/skeleton_3/train_label_full.pkl'}, 'cross_val': False, 'class_list': None}
+
+[04.12.24|13:26:20] Model:   net.st_gcn_fight.Model.
+[04.12.24|13:26:20] Weights: ./models/st_gcn.kinetics.pt.
+[04.12.24|13:26:20] ==========================[0.1,0.0001,0.015]==========================
+[04.12.24|13:26:21] Transfer epoch: 0
+[04.12.24|13:26:21] 		weight decay 0.0001 lr 0.015
+[04.12.24|13:27:37] 	mean_loss: 0.6204694231351217
+[04.12.24|13:27:37] Eval epoch: 0
+[04.12.24|13:27:53] 	mean_loss: 0.5825087577104568
+[04.12.24|13:27:53] 	F1 Score: 0.7333
+[04.12.24|13:27:53] Done.
+[04.12.24|13:27:53] Transfer epoch: 1
+[04.12.24|13:27:53] 		weight decay 0.0001 lr 0.015
+[04.12.24|13:29:08] 	mean_loss: 0.5093883991241455
+[04.12.24|13:29:08] Eval epoch: 1
+[04.12.24|13:29:24] 	mean_loss: 0.5079884901642799
+[04.12.24|13:29:24] 	F1 Score: 0.7027
+[04.12.24|13:29:24] Done.
+[04.12.24|13:29:24] Transfer epoch: 2
+[04.12.24|13:29:24] 		weight decay 0.0001 lr 0.0075
+[04.12.24|13:30:39] 	mean_loss: 0.45540637771288556
+[04.12.24|13:30:39] Eval epoch: 2
+[04.12.24|13:30:55] 	mean_loss: 0.4917718395590782
+[04.12.24|13:30:55] 	F1 Score: 0.7129
+[04.12.24|13:30:55] Done.
+[04.12.24|13:30:55] Transfer epoch: 3
+[04.12.24|13:30:55] 		weight decay 0.0001 lr 0.0075
+[04.12.24|13:32:10] 	mean_loss: 0.44808470606803896
+[04.12.24|13:32:10] Eval epoch: 3
+[04.12.24|13:32:26] 	mean_loss: 0.4599424749612808
+[04.12.24|13:32:26] 	F1 Score: 0.7727
+[04.12.24|13:32:26] Done.
+[04.12.24|13:32:26] Transfer epoch: 4
+[04.12.24|13:32:26] 		weight decay 0.0001 lr 0.00375
+[04.12.24|13:33:41] 	mean_loss: 0.4186080574989319
+[04.12.24|13:33:41] Eval epoch: 4
+[04.12.24|13:33:57] 	mean_loss: 0.4564460813999176
+[04.12.24|13:33:57] 	F1 Score: 0.7917
+[04.12.24|13:33:57] Done.
+[04.12.24|13:33:57] Transfer epoch: 5
+[04.12.24|13:33:57] 		weight decay 0.0001 lr 0.00375
+[04.12.24|13:35:12] 	mean_loss: 0.4189443389574687
+[04.12.24|13:35:12] Eval epoch: 5
+[04.12.24|13:35:29] 	mean_loss: 0.43729355186223984
+[04.12.24|13:35:29] 	F1 Score: 0.8103
+[04.12.24|13:35:29] Done.
+[04.12.24|13:35:29] Transfer epoch: 6
+[04.12.24|13:35:29] 		weight decay 0.0001 lr 0.001875
+[04.12.24|13:36:43] 	mean_loss: 0.42549373110135397
+[04.12.24|13:36:43] Eval epoch: 6
+[04.12.24|13:36:59] 	mean_loss: 0.4382392317056656
+[04.12.24|13:36:59] 	F1 Score: 0.8103
+[04.12.24|13:36:59] Done.
+[04.12.24|13:36:59] The model has been saved as ./work_dir/recognition/fd/ST_GCN/1l/model_1l.pt.
+[04.12.24|13:36:59] Fine Tuning start
+[04.12.24|13:36:59] Transfer epoch: 0
+[04.12.24|13:36:59] 		weight decay 0.0001 lr 0.0005
+[04.12.24|13:38:18] 	mean_loss: 0.40730276306470237
+[04.12.24|13:38:18] Eval epoch: 0
+[04.12.24|13:38:39] 	mean_loss: 0.42727386951446533
+[04.12.24|13:38:39] 	F1 Score: 0.8286
+[04.12.24|13:38:39] Done.
+[04.12.24|13:38:39] Transfer epoch: 1
+[04.12.24|13:38:39] 		weight decay 0.0001 lr 0.0005
+[04.12.24|13:39:57] 	mean_loss: 0.40544960101445515
+[04.12.24|13:39:57] Eval epoch: 1
+[04.12.24|13:40:13] 	mean_loss: 0.42643333226442337
+[04.12.24|13:40:13] 	F1 Score: 0.8103
+[04.12.24|13:40:13] Done.
+[04.12.24|13:40:13] Transfer epoch: 2
+[04.12.24|13:40:13] 		weight decay 0.0001 lr 0.00025
+[04.12.24|13:41:32] 	mean_loss: 0.4110048453013102
+[04.12.24|13:41:32] Eval epoch: 2
+[04.12.24|13:41:49] 	mean_loss: 0.42004355043172836
+[04.12.24|13:41:49] 	F1 Score: 0.8286
+[04.12.24|13:41:49] Done.
+[04.12.24|13:41:49] Transfer epoch: 3
+[04.12.24|13:41:49] 		weight decay 0.0001 lr 0.00025
+[04.12.24|13:43:07] 	mean_loss: 0.38201502958933514
+[04.12.24|13:43:07] Eval epoch: 3
+[04.12.24|13:43:23] 	mean_loss: 0.4210340082645416
+[04.12.24|13:43:23] 	F1 Score: 0.8103
+[04.12.24|13:43:23] Done.
+[04.12.24|13:43:23] The model has been saved as ./work_dir/recognition/fd/ST_GCN/1l/model_1l_ft.pt.
+[04.12.24|13:43:23] BEST PARAMS ARE [0.1,0.0001,0.015]
+[04.12.24|13:43:23] F1 WAS 0.8285714285714285

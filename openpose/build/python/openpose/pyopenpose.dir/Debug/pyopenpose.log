@@ -1,0 +1,76 @@
+﻿  openpose_python.cpp
+C:\Local\p3p\openpose\include\openpose/flags.hpp(49,1): warning C4245: 'initializing': conversion from 'int' to 'google::uint64', signed/unsigned mismatch
+C:\Local\p3p\openpose\python\openpose\openpose_python.cpp(497,36): warning C4100: 'imp': unreferenced formal parameter
+C:\Local\p3p\openpose\python\openpose\openpose_python.cpp(497,26): warning C4100: 'src': unreferenced formal parameter
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(681,47): warning C4244: 'initializing': conversion from '__int64' to '_Objty', possible loss of data
+          with
+          [
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(1620): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,__int64&>(_Alloc &,_Objty *const ,__int64 &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(1620): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,__int64&>(_Alloc &,_Objty *const ,__int64 &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(1659): message : see reference to function template instantiation 'void std::_Uninitialized_backout_al<_Alloc>::_Emplace_back<__int64&>(__int64 &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xmemory(1659): message : see reference to function template instantiation 'void std::_Uninitialized_backout_al<_Alloc>::_Emplace_back<__int64&>(__int64 &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(1641): message : see reference to function template instantiation 'int *std::_Uninitialized_copy<_Iter,std::allocator<int>>(const _InIt,const _InIt,int *,_Alloc &)' being compiled
+          with
+          [
+              _Iter=__int64 *,
+              _InIt=__int64 *,
+              _Alloc=std::allocator<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(517): message : see reference to function template instantiation 'int *std::vector<int,std::allocator<int>>::_Ucopy<_Iter>(_Iter,_Iter,int *)' being compiled
+          with
+          [
+              _Iter=__int64 *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(517): message : see reference to function template instantiation 'int *std::vector<int,std::allocator<int>>::_Ucopy<_Iter>(_Iter,_Iter,int *)' being compiled
+          with
+          [
+              _Iter=__int64 *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(529): message : see reference to function template instantiation 'void std::vector<int,std::allocator<int>>::_Range_construct_or_tidy<__int64*>(_Iter,_Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=__int64 *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(529): message : see reference to function template instantiation 'void std::vector<int,std::allocator<int>>::_Range_construct_or_tidy<__int64*>(_Iter,_Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Iter=__int64 *
+          ]
+C:\Local\p3p\openpose\python\openpose\openpose_python.cpp(450): message : see reference to function template instantiation 'std::vector<int,std::allocator<int>>::vector<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Ty=pybind11::ssize_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<pybind11::ssize_t>>>,
+              _Alloc=std::allocator<int>
+          ]
+C:\Local\p3p\openpose\python\openpose\openpose_python.cpp(450): message : see reference to function template instantiation 'std::vector<int,std::allocator<int>>::vector<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Ty=pybind11::ssize_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<pybind11::ssize_t>>>,
+              _Alloc=std::allocator<int>
+          ]
+     Creating library C:/Local/p3p/openpose/build/python/openpose/Debug/pyopenpose.lib and object C:/Local/p3p/openpose/build/python/openpose/Debug/pyopenpose.exp
+  pyopenpose.vcxproj -> C:\Local\p3p\openpose\build\python\openpose\Debug\pyopenpose.cp38-win_amd64.pyd

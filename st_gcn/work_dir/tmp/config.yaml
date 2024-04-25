@@ -1,0 +1,29 @@
+# command line: main.py demo_fight --video .\data\UBI_FIGHTS\videos\F_186_0_0_1_0.mp4
+
+annotation_path: ''
+config: ./config/fd/demo_fight.yaml
+device: 0
+height: 800
+ignore_weights: []
+mode: recognition
+model: net.st_gcn_fight.Model
+model_args:
+    edge_importance_weighting: true
+    graph_args:
+        layout: openpose
+        strategy: spatial
+    in_channels: 3
+    num_class: 2
+model_fps: 10
+model_input_frame: 128
+openpose: null
+prediction_out: ''
+print_log: false
+save_log: true
+test_split: ''
+use_gpu: true
+video: .\data\UBI_FIGHTS\videos\F_186_0_0_1_0.mp4
+video_annotation_path: ./data/movies/video_annotation.csv
+video_path: ./data/movies/videos/
+weights: ./work_dir/recognition/fd/ST_GCN/0l/model_0l.pt
+work_dir: ./work_dir/tmp

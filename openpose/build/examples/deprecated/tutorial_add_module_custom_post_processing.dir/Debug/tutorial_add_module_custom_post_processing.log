@@ -1,0 +1,4 @@
+﻿  tutorial_add_module_custom_post_processing.cpp
+C:\Local\p3p\openpose\include\openpose/flags.hpp(49,1): warning C4245: 'initializing': conversion from 'int' to 'google::uint64', signed/unsigned mismatch
+     Creating library C:/Local/p3p/openpose/build/examples/deprecated/Debug/tutorial_add_module_custom_post_processing.lib and object C:/Local/p3p/openpose/build/examples/deprecated/Debug/tutorial_add_module_custom_post_processing.exp
+  tutorial_add_module_custom_post_processing.vcxproj -> C:\Local\p3p\openpose\build\x64\Debug\tutorial_add_module_custom_post_processing.exe

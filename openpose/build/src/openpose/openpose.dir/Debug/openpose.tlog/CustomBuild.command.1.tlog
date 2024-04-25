@@ -1,0 +1,144 @@
+^C:\LOCAL\P3P\OPENPOSE\SRC\OPENPOSE\FACE\RENDERFACE.CU
+setlocal
+cd C:\Local\p3p\openpose\build\src\openpose\CMakeFiles\openpose.dir\face
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -E make_directory C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/face/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/face/Debug/openpose_generated_renderFace.cu.obj -D generated_cubin_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/face/Debug/openpose_generated_renderFace.cu.obj.cubin.txt -P C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/face/openpose_generated_renderFace.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\LOCAL\P3P\OPENPOSE\SRC\OPENPOSE\GPU\CUDA.CU
+setlocal
+cd C:\Local\p3p\openpose\build\src\openpose\CMakeFiles\openpose.dir\gpu
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -E make_directory C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/gpu/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/gpu/Debug/openpose_generated_cuda.cu.obj -D generated_cubin_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/gpu/Debug/openpose_generated_cuda.cu.obj.cubin.txt -P C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/gpu/openpose_generated_cuda.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\LOCAL\P3P\OPENPOSE\SRC\OPENPOSE\HAND\RENDERHAND.CU
+setlocal
+cd C:\Local\p3p\openpose\build\src\openpose\CMakeFiles\openpose.dir\hand
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -E make_directory C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/hand/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/hand/Debug/openpose_generated_renderHand.cu.obj -D generated_cubin_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/hand/Debug/openpose_generated_renderHand.cu.obj.cubin.txt -P C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/hand/openpose_generated_renderHand.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\LOCAL\P3P\OPENPOSE\SRC\OPENPOSE\NET\BODYPARTCONNECTORBASE.CU
+setlocal
+cd C:\Local\p3p\openpose\build\src\openpose\CMakeFiles\openpose.dir\net
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -E make_directory C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug/openpose_generated_bodyPartConnectorBase.cu.obj -D generated_cubin_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug/openpose_generated_bodyPartConnectorBase.cu.obj.cubin.txt -P C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_bodyPartConnectorBase.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\LOCAL\P3P\OPENPOSE\SRC\OPENPOSE\NET\MAXIMUMBASE.CU
+setlocal
+cd C:\Local\p3p\openpose\build\src\openpose\CMakeFiles\openpose.dir\net
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -E make_directory C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug/openpose_generated_maximumBase.cu.obj -D generated_cubin_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug/openpose_generated_maximumBase.cu.obj.cubin.txt -P C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_maximumBase.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\LOCAL\P3P\OPENPOSE\SRC\OPENPOSE\NET\NMSBASE.CU
+setlocal
+cd C:\Local\p3p\openpose\build\src\openpose\CMakeFiles\openpose.dir\net
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -E make_directory C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug/openpose_generated_nmsBase.cu.obj -D generated_cubin_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug/openpose_generated_nmsBase.cu.obj.cubin.txt -P C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_nmsBase.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\LOCAL\P3P\OPENPOSE\SRC\OPENPOSE\NET\RESIZEANDMERGEBASE.CU
+setlocal
+cd C:\Local\p3p\openpose\build\src\openpose\CMakeFiles\openpose.dir\net
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -E make_directory C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug/openpose_generated_resizeAndMergeBase.cu.obj -D generated_cubin_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/Debug/openpose_generated_resizeAndMergeBase.cu.obj.cubin.txt -P C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_resizeAndMergeBase.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\LOCAL\P3P\OPENPOSE\SRC\OPENPOSE\POSE\RENDERPOSE.CU
+setlocal
+cd C:\Local\p3p\openpose\build\src\openpose\CMakeFiles\openpose.dir\pose
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -E make_directory C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/pose/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/pose/Debug/openpose_generated_renderPose.cu.obj -D generated_cubin_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/pose/Debug/openpose_generated_renderPose.cu.obj.cubin.txt -P C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/pose/openpose_generated_renderPose.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\LOCAL\P3P\OPENPOSE\SRC\OPENPOSE\TRACKING\PYRAMIDALLK.CU
+setlocal
+cd C:\Local\p3p\openpose\build\src\openpose\CMakeFiles\openpose.dir\tracking
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -E make_directory C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/tracking/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\Local\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools/MSVC/14.29.30133/bin/Hostx64/x64" -D build_configuration:STRING=Debug -D generated_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/tracking/Debug/openpose_generated_pyramidalLK.cu.obj -D generated_cubin_file:STRING=C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/tracking/Debug/openpose_generated_pyramidalLK.cu.obj.cubin.txt -P C:/Local/p3p/openpose/build/src/openpose/CMakeFiles/openpose.dir/tracking/openpose_generated_pyramidalLK.cu.obj.Debug.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

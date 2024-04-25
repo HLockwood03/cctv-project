@@ -1,0 +1,18 @@
+weights: ./work_dir/recognition/fd/ST_GCN/0l/model_0l.pt
+model_fps: 10
+
+#annotation_path: ./data/UBI_FIGHTS/annotation/
+video_annotation_path: ./data/movies/video_annotation.csv
+video_path: ./data/movies/videos/
+#test_split: ./data/UBI_FIGHTS/test_videos.csv
+#prediction_out: ./data/UBI_FIGHTS/prediction/
+
+# model
+model: net.st_gcn_fight.Model
+model_args:
+  in_channels: 3
+  num_class: 2
+  edge_importance_weighting: True
+  graph_args:
+    layout: 'openpose'
+    strategy: 'spatial'

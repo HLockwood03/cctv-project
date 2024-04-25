@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Local\p3p\openpose\build\CMakeFiles\c4b31cc5c5af24d7b95082954446b29a\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D978355C-40BF-37EC-9BCD-1A1FE1860D84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

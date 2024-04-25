@@ -1,0 +1,4 @@
+﻿  openpose.cpp
+C:\Local\p3p\openpose\include\openpose/flags.hpp(49,1): warning C4245: 'initializing': conversion from 'int' to 'google::uint64', signed/unsigned mismatch
+     Creating library C:/Local/p3p/openpose/build/examples/openpose/Debug/OpenPoseDemo.lib and object C:/Local/p3p/openpose/build/examples/openpose/Debug/OpenPoseDemo.exp
+  OpenPoseDemo.vcxproj -> C:\Local\p3p\openpose\build\x64\Debug\OpenPoseDemo.exe

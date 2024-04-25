@@ -1,0 +1,4 @@
+﻿  tutorial_api_thread_1_user_processing_function.cpp
+C:\Local\p3p\openpose\include\openpose/flags.hpp(49,1): warning C4245: 'initializing': conversion from 'int' to 'google::uint64', signed/unsigned mismatch
+     Creating library C:/Local/p3p/openpose/build/examples/deprecated/Debug/tutorial_api_thread_1_user_processing_function.lib and object C:/Local/p3p/openpose/build/examples/deprecated/Debug/tutorial_api_thread_1_user_processing_function.exp
+  tutorial_api_thread_1_user_processing_function.vcxproj -> C:\Local\p3p\openpose\build\x64\Debug\tutorial_api_thread_1_user_processing_function.exe

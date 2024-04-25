@@ -1,0 +1,48 @@
+weights: ./models/st_gcn.kinetics.pt
+#ignore_weights: ['fcn.weight','fcn.bias']
+work_dir: ./work_dir/recognition/fd/ST_GCN/fcn
+
+# feeder
+feeder: feeder.feeder.Feeder
+train_feeder_args:
+  random_choose: True
+  random_move: True
+  window_size: 300 
+  data_path: ./data/fight-detection/skeleton_3/train_data.npy
+  label_path: ./data/fight-detection/skeleton_3/train_label.pkl
+test_feeder_args:
+  data_path: ./data/fight-detection/skeleton_3/val_data.npy
+  label_path: ./data/fight-detection/skeleton_3/val_label.pkl
+train_full_feeder_args:
+  random_choose: True
+  random_move: True
+  window_size: 300 
+  data_path: ./data/fight-detection/skeleton_3/train_data_full.npy
+  label_path: ./data/fight-detection/skeleton_3/train_label_full.pkl
+
+
+# model
+model: net.st_gcn_fight.Model
+model_args:
+  in_channels: 3
+  num_class: 400
+  dropout: 0
+  edge_importance_weighting: True
+  graph_args:
+    layout: 'openpose'
+    strategy: 'spatial'
+
+# training
+device: 0 #[0,1,2,3]
+batch_size: 16
+test_batch_size: 16
+cross_val: False
+
+#optim
+base_lr: 0.1
+step: [2,4,6,8,10,12, 16]
+num_epoch: 20
+weight_decay: 0.0001
+
+# test 
+phase: test
